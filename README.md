@@ -1,6 +1,5 @@
 # Chatbot
 # AI Chatbot using Streamlit
-
 This project is an AI-powered chatbot developed using **Python**, **Streamlit**, and the **OpenAI API**.  
 It provides a simple web-based interface where users can interact with an AI model in real time.
 
@@ -28,3 +27,9 @@ It provides a simple web-based interface where users can interact with an AI mod
 3. The AI processes the input and generates a response.
 4. Both user and AI messages are displayed on the screen.
 5. Chat history is preserved for the current session.
+
+ ## Learning Outcomes
+- Implemented real-time AI interactions
+- Gained experience using Streamlit for web apps
+- Integrated OpenAI API into a Python application
+- Managed session-based chat history
