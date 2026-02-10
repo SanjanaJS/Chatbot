@@ -4,7 +4,6 @@ This project is an AI-powered chatbot developed using **Python**, **Streamlit**,
 It provides a simple web-based interface where users can interact with an AI model in real time.
 
 ---
-
 ## Features
 - User-friendly chat interface
 - Real-time AI responses
@@ -13,14 +12,21 @@ It provides a simple web-based interface where users can interact with an AI mod
 - Uses OpenAI GPT model for intelligent replies
 
 ---
-
 ## Technologies Used
 - **Python**
 - **Streamlit**
 - **OpenAI API**
 
 ---
+## Project structure
+ai-chatbot/
+│
+├── bott.py
+├── requirements.txt
+├── README.md
+└── .env   (optional – for API key)
 
+---
 ## How the Chatbot Works
 1. User enters a message in the chat input.
 2. The message is sent to the OpenAI GPT model.
